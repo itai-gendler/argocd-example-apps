@@ -1,5 +1,5 @@
 apiVersion: apps/v1
-kind: Deployment
+kind: Deploymentttttt
 metadata:
   name: guestbook-ui
   labels:
