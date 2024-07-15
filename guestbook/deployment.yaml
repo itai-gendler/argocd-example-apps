@@ -1,11 +1,11 @@
 apiVersion: apps/v1
-kind: Deploymentttttt
+kind: Deployment
 metadata:
   name: guestbook-ui
   labels:
     key: val
     key_1: val2
-spec:
+specc:
   replicas: 4
   revisionHistoryLimit: 3
   selector:
