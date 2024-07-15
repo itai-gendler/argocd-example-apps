@@ -6,7 +6,7 @@ metadata:
     key: val
     key_1: val2
 spec:
-  replicas: 6
+  replicas: 4
   revisionHistoryLimit: 3
   selector:
     matchLabels:
